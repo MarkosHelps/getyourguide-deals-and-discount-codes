@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markoshelps.github.io/getyourguide-deals-and-discount-codes/sitemap.xml
