@@ -1,12 +1,12 @@
 # 🌍 GetYourGuide Deals & Discount Codes 2026 | Tours, Tickets & Attractions
 
-![GetYourGuide tours and activities discount banner](https://static.wixstatic.com/media/d2620f_3b694395dda6474bbf990dddbc637cae~mv2.png)
+[![GetYourGuide tours and activities discount banner](https://static.wixstatic.com/media/d2620f_3b694395dda6474bbf990dddbc637cae~mv2.png)](https://www.getyourguide.com/?partner_id=7WPLS91)
 
 **[🌐 Explore the GitHub Pages guide](https://markoshelps.github.io/getyourguide-deals-and-discount-codes/)** · **[🎟️ See current GetYourGuide deals](https://www.getyourguide.com/?partner_id=7WPLS91&utm_medium=online_publisher)**
 
 Explore GetYourGuide tours, activities and attraction tickets around the world. Compare prices, cancellation rules, availability and traveler reviews before booking. Selected activities may offer discounts of up to 50%, but there is no guaranteed sitewide promo code or fixed discount. Prices and promotions vary by listing and date.
 
-
+This independent TheSmart.Deals guide includes affiliate links. The publisher may earn a commission on eligible bookings.
 
 ## Quick facts
 
@@ -183,7 +183,12 @@ GetYourGuide is primarily a booking marketplace connecting travelers with activi
 GetYourGuide discount 2026, GetYourGuide promo code, GetYourGuide deals, GetYourGuide coupon, GetYourGuide tours, GetYourGuide activities, skip-the-line tickets, guided tours Rome, Colosseum tickets, Vatican Museums tickets, Sagrada Familia tickets, Paris Eiffel Tower tours, London attractions, Barcelona tours, Amsterdam canal cruise, Venice gondola ride, Lisbon day trips, Bangkok tours, GetYourGuide review, tours and activities worldwide.
 
 ## Affiliate disclosure
-**This repository is an independent promotional guide by TheSmart.Deals, not an official GetYourGuide website.** Links marked by the partner ID parameter are affiliate links. The publisher may receive a commission on qualifying bookings. Prices, activity counts, offers and availability change. No discount is guaranteed.
+**This repository is an independent promotional guide by TheSmart.Deals, not an official GetYourGuide website.** Links marked by the `partner_id=7WPLS91` parameter are affiliate links. The publisher may receive a commission on qualifying bookings. Prices, activity counts, offers and availability change. No discount is guaranteed.
 
 **Original article:** https://www.thesmart.deals/getyourguide-discount-deals  
 **GitHub Pages:** https://markoshelps.github.io/getyourguide-deals-and-discount-codes/
+
+
+## Multilingual offer guide
+
+The website includes 16 translated information cards at the end of the homepage. Each card links to the GetYourGuide partner page. Availability, pricing and discounts vary by activity and date.
